@@ -191,21 +191,21 @@
                   <div class="w-1/2 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/morning in the unknown.png"
+                      imgSrc="/assets/morning in the unknown.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-1/2 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/sunset clouds.png"
+                      imgSrc="/assets/sunset clouds.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-full p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/monogatari.png"
+                      imgSrc="/assets/monogatari.png"
                       name="Test"
                     />
                   </div>
@@ -214,49 +214,49 @@
                   <div class="w-1/3 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/fiber optic.png"
+                      imgSrc="/assets/fiber optic.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-1/3 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/alone in a forest.png"
+                      imgSrc="/assets/alone in a forest.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-1/3 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/alone in the sea.png"
+                      imgSrc="/assets/alone in the sea.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-1/2 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/hell baron.png"
+                      imgSrc="/assets/hell baron.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-1/2 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/solar divide.png"
+                      imgSrc="/assets/solar divide.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-1/2 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/moebius.png"
+                      imgSrc="/assets/moebius.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-1/2 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/upset waters.png"
+                      imgSrc="/assets/upset waters.png"
                       name="Test"
                     />
                   </div>
@@ -272,35 +272,35 @@
                   <div class="w-1/2 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/downpour.png"
+                      imgSrc="/assets/downpour.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-1/2 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/ashes.png"
+                      imgSrc="/assets/ashes.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-1/3 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/new life.png"
+                      imgSrc="/assets/new life.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-1/3 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/leaf.png"
+                      imgSrc="/assets/leaf.png"
                       name="Test"
                     />
                   </div>
                   <div class="w-1/3 p-1 md:p-2">
                     <GalleryImage
                       class="block h-full w-full rounded-lg object-cover object-center"
-                      imgSrc="../assets/polaroid.png"
+                      imgSrc="/assets/polaroid.png"
                       name="Test"
                     />
                   </div>
